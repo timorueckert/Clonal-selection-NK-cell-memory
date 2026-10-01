@@ -1,0 +1,14 @@
+# Data files
+/data/
+
+# RStudio
+.Rproj.user/
+
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# OS-generated files
+.DS_Store
+Thumbs.db
